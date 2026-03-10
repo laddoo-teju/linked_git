@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 omething to commit
-merge conflict adding
-=======
-something to commit
->>>>>>> f992603 (edited)
+merge conflict
+edit
