@@ -1,2 +1,3 @@
-something to commit
-edi
+omething to commit
+merge conflict
+edit
