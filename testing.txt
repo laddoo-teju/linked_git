@@ -1,2 +1,2 @@
 omething to commit
-merge conflict
+merge conflict adding
